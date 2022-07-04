@@ -5,6 +5,7 @@ import java.time.Duration;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 //This is the code to launch browser.
+//changes by Devidas
 public class LaunchSite {
 	protected WebDriver driver;
 	public  void OpenBrowser()
